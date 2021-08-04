@@ -1,3 +1,5 @@
+#link of video -: https://www.youtube.com/watch?v=w5djfRtAO2c&list=PL1oZnlbOmCFEObphr24ftvuTOOpcNBlBY&index=3
+
 #first python program
 #simple calculator
 #comments single line comment
